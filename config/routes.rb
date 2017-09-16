@@ -4,6 +4,10 @@ Rails.application.routes.draw do
   get '/info', to: 'info#show'
   post '/info', to: 'info#show'
 
+  get '/echo', to: 'echo#show'
+  post '/echo', to: 'echo#show'
+
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
