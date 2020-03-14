@@ -2,6 +2,5 @@
 
 ruby on rails サンプルアプリ
 
-
 指定内容を返す
 /echo?p={%22name%22:%22hoge%22,%22test%22:123}&s=404
